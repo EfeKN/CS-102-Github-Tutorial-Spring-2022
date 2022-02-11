@@ -1,3 +1,32 @@
 Efe Kaan Fidancı - 22102589 - https://github.com/EfeKN
 
 My favourite video game : Dark Souls III
+
+log info :
+
+commit 05d0ce0df0d1af20340f21f83b9ccbccfdc6db95 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 568b36d af11064
+Author: EfeKN <91393504+EfeKN@users.noreply.github.com>
+Date:   Fri Feb 11 20:30:53 2022 +0300
+
+    Merge pull request #1 from EfeKN/new_information
+
+    favourite video game updated info.txt
+
+commit af1106491553b3aca55547a1d5e29be28ba66f82 (origin/new_information, new_information)
+Author: EfeKN <efe.kaan.fidanci@gmail.com>
+Date:   Fri Feb 11 20:30:31 2022 +0300
+
+    favourite video game updated info.txt
+
+commit 568b36db9f5564a4eb1e692e23b40e580f6a4483
+Author: EfeKN <efe.kaan.fidanci@gmail.com>
+Date:   Fri Feb 11 20:28:10 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit 3952e16b32d8485725b73acfad3da36a44dde16e
+Author: EfeKN <91393504+EfeKN@users.noreply.github.com>
+Date:   Fri Feb 11 20:26:10 2022 +0300
+
+    Initial commit
